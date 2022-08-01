@@ -1,0 +1,15 @@
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\bin\Debug\net6.0\Assignment-three-c#.exe
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\bin\Debug\net6.0\Assignment-three-c#.deps.json
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\bin\Debug\net6.0\Assignment-three-c#.runtimeconfig.json
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\bin\Debug\net6.0\Assignment-three-c#.dll
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\bin\Debug\net6.0\Assignment-three-c#.pdb
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.csproj.AssemblyReference.cache
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.AssemblyInfoInputs.cache
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.AssemblyInfo.cs
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.csproj.CoreCompileInputs.cache
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.dll
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\refint\Assignment-three-c#.dll
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.pdb
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\Assignment-three-c#.genruntimeconfig.cache
+C:\Users\KOBBY\Desktop\AXON\Assignment-three-c#\obj\Debug\net6.0\ref\Assignment-three-c#.dll
